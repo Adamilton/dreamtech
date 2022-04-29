@@ -1,0 +1,44 @@
+.header-info3 .description3 {
+  font-size: 50px;
+  color: #6732d1;
+
+}
+
+.header-info3 .description4 {
+  font-size: 50px;
+  color: #9c7ac5;
+}
+
+.header-info3 {
+  font-size: 45px;
+  color: #242424;  
+  text-align: justify;
+  font-family: "Source Sans 3", sans-serif;
+  width: 45%;
+  position: absolute;
+  left: 10px;
+  top: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  position: absolute;
+  top: 250px;
+  left: 550px;
+}
+
+.paragraph-description {
+  font-size: 30px;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.header-info3 .img-brain {
+  width: 55%;
+  margin: auto;
+}
+
+/* .products {
+  background: url("./images/background-products.jpeg") no-repeat;
+  background-size: cover;
+} */

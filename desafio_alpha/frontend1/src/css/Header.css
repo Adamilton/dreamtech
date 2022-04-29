@@ -1,0 +1,85 @@
+/* header total
+.content-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #fff;
+  border-bottom: 1px solid #e1e1e1;
+  height: 80px;
+  max-width: 100%;
+  padding: 0 30px;
+}
+
+/* imagem do logo 
+.content-header img {
+  margin-right: 30px;
+}
+
+.nav-title {
+  display: flex;
+  justify-content: start;
+}
+
+/* os lis 
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+  color: #242424;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+.sign-up {
+  display: flex;
+  align-items: center;
+  margin: 100px;
+}
+
+.button-sign-up {
+  width: 150px;
+  margin: 15px;
+  height: 45px;
+  border: 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-login {
+  background-color: #fff;
+  color: #6732d1;
+  border: #6732d1 solid 1px;
+}
+
+.btn-sign-up {
+  color: #fff;
+  background-color: #6732d1;
+}
+
+.shopping-cart {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.btn-shopping-cart {
+  padding: 10px;
+  background-color: rgba(103, 50, 209, 0);
+  border: 0;
+  cursor: pointer;
+}
+
+.customized {
+  color: #3e3e3e;
+  text-decoration: none;
+  cursor: pointer;
+}
+  
+.customized a:hover {
+  background-color: #6732d1;
+  text-decoration: none;
+} */

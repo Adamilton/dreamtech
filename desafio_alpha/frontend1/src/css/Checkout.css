@@ -1,0 +1,131 @@
+/*  ggggg */
+.det-info1 .det-img1 {
+  width: 2px;
+}
+
+.img-det1 {
+  width: 150px;
+}
+
+.det-info1 {
+  text-align: center;
+}
+
+.det-center1 {
+  border: 1px solid #6732d1;
+  display: flex;
+  width: 35%;
+  margin: 5px;
+}
+
+/* .det-center1 .det-img1 img {
+  display: block;
+
+  margin: 0 auto;
+} */
+
+.det-center1 .det-info1 {
+  margin-top: 10px;
+  padding: 0 10px;
+}
+
+.det-info1 h3,
+.det-info1 h4,
+.det-info1 p,
+.det-info1 .but-options {
+  margin-bottom: 15px;
+}
+
+.det-info1 h3, .det-info1 h4 {
+  text-align: center;
+  letter-spacing: 0.1rem;
+  color: rgb(95, 95, 95);
+  font-family: 'Podkova', serif;
+  text-align: center;
+}
+
+.det-info1 h4 {
+  letter-spacing: 0.1rem;
+  
+}
+
+.det-info1 {
+  margin: auto;
+  text-align: center;
+}
+
+/* payment */
+.section-payment {
+  width: 35%;
+  margin-bottom: 20px;
+  margin: 5px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-top: 10px;
+  font-family: 'Podkova', serif;
+  font-size: 17px;
+  border: 1px solid #6732D1;
+}
+
+.pay {
+  padding: 15px;
+  margin: 5px;
+}
+
+/* dados cadastrais */
+.dates {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #6732D1;
+  width: 60%;
+  margin: 5px;
+  padding: 10px;
+
+}
+
+.input-date {
+  width: 50%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-top: 10px;
+  margin-left: 5px;
+  font-family: 'Podkova', serif;
+  font-size: 17px;
+  width: 100%;
+  
+}
+
+.button-sales {
+  width: 60%;
+  padding: 5px 5px;
+  font-size: 15px;
+  outline: none;
+  border: none;
+  background: #9c7Ac5;
+  transition: all 0.3s ease-in-out;
+  font-family: "Podkova", serif;
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+  margin: 5px;
+  height: 45px;
+  border: 0;
+  cursor: pointer;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.button-center {
+  text-align: center;
+}
+
+.button-sales:hover {
+  background: #6732D1;
+
+}
+
+

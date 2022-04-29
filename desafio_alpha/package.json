@@ -1,0 +1,22 @@
+{
+  "name": "desafio_alpha",
+  "private": true,
+  "workspaces": [
+    "frontend1",
+    "backend"
+  ],
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "font-awesome": "^4.7.0",
+    "formik": "^2.2.9",
+    "pg": "^8.7.3",
+    "prop-types": "^15.8.1",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.5",
+    "yup": "^0.32.11"
+  }
+}

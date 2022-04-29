@@ -1,0 +1,71 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title-home {
+  color: #9c7ac5;
+  font-size: 75px;
+  font-family: "Source Serif Pro", sans-serif;
+  font-weight: 700;
+}
+
+.title-h1 {
+  color: #6732d1;
+}
+
+.div-home {
+  width: 100%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.home {
+  width: 100%;
+  padding: 30px;
+  width: 55%;
+  display: flex;
+  align-items: center;  
+}
+
+.image-scenery {
+  width: 100%;
+  max-width: 55%;
+  width: 795px;
+  max-width: 767px 100vw;
+  display: flex;
+  align-items: center;
+}
+
+.image-all-scenery {
+  height: 450px;
+  margin-left: auto;
+}
+
+.btn-home {
+  margin-left: 200px ;
+}
+
+.button-home {
+  width: 150px;
+  height: 45px;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  background: #6732d1;
+  border-radius: 5px;
+}
+
+.content-home {
+  display: flex;
+  flex-direction: column;
+  background-image: url('../images/brain.svg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position: right;
+  background-size: 60em;
+  margin-right: 50px;
+} */

@@ -1,0 +1,111 @@
+/* body {
+  margin: 0;
+  font-family: Verdana, Arial, '"Helvetica Neue"', Helvetica, "sans-serif";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  color: #fff;    
+}
+
+p {
+  margin-top: 0;
+  margin-left: 10px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+  margin: 0;
+}
+
+article h2 {
+  font-size: 32px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px;
+  margin: 50px;  
+}
+
+article {
+  text-align: center;
+  width: 660px;
+  height: 400px;
+  background-color: white;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 2px solid #e1e5eb;
+}
+
+/* article:hover {
+  transform: translateY(-10px);
+  transition: all 0.2s;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+} */
+
+/* 
+.cardScenery {
+  color: #242424;
+  padding: 60px 20px;  
+}
+
+ verificar imagem que esta branco lado esquerdo 
+.warriorsonnamusha {
+  background-image: url('../images/warriors.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.middleages {
+  background-image: url('../images/middle-ages.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.inverteddream {
+  background-image: url('../images/inverted-dream.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.removebadmemory {
+  background-image: url('../images/delete-memory.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.scenery-image {
+  background-color: rgba(255, 255, 255,0.6);
+  font-size: 25px;
+  padding: 15px;
+  height: 280px;
+  width: 55%;  
+}
+
+.button-scenery {
+  width: 150px;
+  margin: 30px;
+  height: 45px;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  background: #6732d1;
+  border-radius: 5px;
+}
+
+.paragraphy-scenery {
+  margin: 35px;
+  color: #6732d1;
+  cursor: pointer;
+} */
